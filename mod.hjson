@@ -1,7 +1,7 @@
-name： "transportPlus"
+name: "transportPlus"
 displayName: "transportPlus"
-author： "xxy173"
-description： "Add Distributions"
+author: "xxy173"
+description: "Add Distributions"
 version: "1"
 minGameVersion: "143.1"
 hidden: false
