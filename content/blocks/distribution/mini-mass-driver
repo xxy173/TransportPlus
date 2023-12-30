@@ -1,3 +1,4 @@
+{
 "type": "massDriver",
 "name": "Mini Mass Driver"
 "details": "Small mass driver."
@@ -9,26 +10,22 @@
 "minDistribute": 40,
 "reloadTime": 40,
 "range": 200,
-//requirements
-	"consumes":
-	{
-		"power": 0.50
-	},
-	"requirements": [
-		{ "item": "titanium", "amount": 40 },
-		{ "item": "lead", "amount": 30 },
-		{ "item": "thorium", "amount": 20 },
-		{ "item": "silicon", "amount": 60 }
-	],
-	"research": {
-	    parent: mass-driver
-	    requirements: [
-            thorium/500,
-	    copper/3000,
-	    titanium/3000,
-	    silicon/500,
-	    ]
-	}
+consumes: {
+  power: 0.3
+},
+"requirements": [
+	{ "item": "titanium", "amount": 40 },
+	{ "item": "lead", "amount": 30 },
+	{ "item": "thorium", "amount": 20 },
+	{ "item": "silicon", "amount": 60 }
+],
+"research": {
+    parent: mass-driver
+    requirements: [
+    thorium/500,
+    copper/3000,
+    titanium/3000,
+    silicon/500,
+   ]
 }
-
-
+}
