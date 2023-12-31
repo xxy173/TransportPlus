@@ -4,11 +4,11 @@ health: 300,
 itemCapacity: 300,
 category: distribution,
 research: cargo-loader,
-requirements: {
+requirements: [
   titanium/100,
   silicon/100,
-},
-researchCost: {
+],
+researchCost: [
   titanium/1000,
   silicon/1000,
-  }
+  ]
