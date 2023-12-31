@@ -5,7 +5,7 @@ health: 300,
 itemCapacity: 300,
 consumes: {
   power: 5,
-  liquid: CryoFluid/0.1
+  liquid: cryofluid/0.1
 },
 buildTime: 100,
 unitType: carrier,
@@ -18,8 +18,8 @@ research: {
     surge-alloy/1000,
   },
 },
-requirements: {
+requirements: [
  titanium/200,
  silicon/300,
  surge-alloy/20,
-}
+]
