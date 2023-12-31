@@ -1,0 +1,17 @@
+type: tether
+name: carrier
+health: 100
+flying: true
+lowAltitude: false
+accel: 0.1
+drag: 0.01
+speed: 6
+armor: 0
+hitsize: 2
+itemCapacity: 300
+rotateSpeed: 8
+Controller: CargoAI
+allowedInPayloads: false
+logicControllable: false
+playerControllable: false
+isEnemy: false
