@@ -4,7 +4,7 @@ health: 300,
 itemCapacity: 300,
 category: distribution,
 research: {
-  parent: "cargo-loader",
+  parent: "mass-driver",
   requirements: [
   titanium/1000,
   silicon/1000,
