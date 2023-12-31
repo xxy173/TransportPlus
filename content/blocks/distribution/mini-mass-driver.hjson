@@ -7,8 +7,8 @@
     "size": 1,
     "speed": 200,
     "itemCapacity": 30,
-    "minDistribute": 20,
-    "reloadTime": 20,
+    "minDistribute": 3,
+    "reloadTime": 5,
     "range": 150,
     "consumes": {
       "power": 0.3
