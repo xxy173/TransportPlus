@@ -3,7 +3,9 @@ name: Cargo Unload Point,
 health: 300,
 itemCapacity: 300,
 category: distribution,
-research: cargo-loader,
+research: {
+  parent: cargo-loader,
+}
 requirements: [
   titanium/100,
   silicon/100,
