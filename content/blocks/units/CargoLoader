@@ -1,0 +1,24 @@
+type: UnitCargoLoader
+size: 2
+health: 300
+itemCapacity: 300
+consumes: {
+  power: 5
+  liquid: silicon/100
+},
+buildTime: 100
+unitType: carrier
+category: distribution
+research: {
+ parent: "Mass-Driver"
+}
+requirements: [
+ titanium/200
+ silicon/300
+ surge-alloy/20
+]
+researchCost: [
+ titanium/2000
+ silicon/3000
+ surge-alloy/1000
+]
