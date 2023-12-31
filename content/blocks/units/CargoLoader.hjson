@@ -16,7 +16,7 @@ research: {
   silicon/3000
   surge-alloy/1000
   surge-alloy/1000
-}
+ }
 }
 requirements: [
  titanium/200
