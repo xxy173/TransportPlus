@@ -12,11 +12,11 @@ unitType: carrier,
 category: distribution,
 research: {
  parent: "mass-driver",
- requirements: {
+ requirements: [
     titanium/3000,
     silicon/1000,
     surge-alloy/1000,
-  },
+  ],
 },
 requirements: [
  titanium/200,
