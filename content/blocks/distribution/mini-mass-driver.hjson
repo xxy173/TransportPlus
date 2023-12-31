@@ -6,9 +6,9 @@
     "health": 100,
     "size": 1,
     "speed": 200,
-    "itemCapacity": 50,
+    "itemCapacity": 30,
     "minDistribute": 40,
-    "reloadTime": 40,
+    "reloadTime": 20,
     "range": 200,
     "consumes": {
       "power": 0.3
