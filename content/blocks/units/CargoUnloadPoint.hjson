@@ -1,14 +1,14 @@
-Type: UnitCargoUnloadPoint
-name: Cargo Unload Point
-health: 300
-itemCapacity: 300
-category: distribution
-research: cargo-loader
-requirements: [
-  titanium/100
-  silicon/100
-]
-researchCost: [
-  titanium/1000
-  silicon/1000
-  ]
+Type: UnitCargoUnloadPoint,
+name: Cargo Unload Point,
+health: 300,
+itemCapacity: 300,
+category: distribution,
+research: cargo-loader,
+requirements: {
+  titanium/100,
+  silicon/100,
+},
+researchCost: {
+  titanium/1000,
+  silicon/1000,
+  }
