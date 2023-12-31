@@ -1,4 +1,4 @@
-Type: UnitAssembler
+Type: UnitCargoUnloadPoint
 name: Cargo Unload Point
 health: 300
 itemCapacity: 300
