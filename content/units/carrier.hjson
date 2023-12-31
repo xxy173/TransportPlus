@@ -5,7 +5,7 @@ flying: true
 lowAltitude: false
 accel: 0.1
 drag: 0.01
-speed: 6
+speed: 4
 armor: 0
 hitsize: 2
 itemCapacity: 300
