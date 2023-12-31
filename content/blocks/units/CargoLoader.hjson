@@ -11,15 +11,15 @@ buildTime: 100
 unitType: carrier
 category: distribution
 research: {
- parent: "Mass-Driver"
+ parent: "mass-driver"
+ requirements: {
+  silicon/3000
+  surge-alloy/1000
+  surge-alloy/1000
+}
 }
 requirements: [
  titanium/200
  silicon/300
  surge-alloy/20
-]
-researchCost: [
- titanium/2000
- silicon/3000
- surge-alloy/1000
 ]
