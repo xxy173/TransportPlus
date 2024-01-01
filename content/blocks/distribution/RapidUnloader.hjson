@@ -1,12 +1,14 @@
 type: Unloader
 name: "Rapid Unloader"
 health: 70
+category: effect
 itemCapacity: 0
 requirements: [
   titanium/100
   silicon/150
   surge-alloy/20
 ]
+
 research: {
   parent: "unloader"
   requirements: [
