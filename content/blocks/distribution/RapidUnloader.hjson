@@ -3,14 +3,14 @@ name: "Rapid Unloader"
 health: 70
 itemCapacity: 0
 requirements: [
-  "titniumu"/100
+  "titanium"/100
   "silicon"/150
   "surge alloy"/20
 ]
 research: {
-  parent: "unlorder"
+  parent: "unloader"
   requirements: [
-    "titniumu"/1000
+    "titanium"/1000
     "silicon"/1000
     "surge alloy"/200
   ]  
