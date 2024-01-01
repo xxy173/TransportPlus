@@ -1,5 +1,5 @@
 type: Unloader
-name: "Rapi Unloader"
+name: "Surge Unloader"
 health: 70
 category: effect
 itemCapacity: 0
