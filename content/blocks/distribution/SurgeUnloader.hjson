@@ -1,5 +1,5 @@
 type: Unloader
-name: "Rapid Unloader"
+name: "Rapi Unloader"
 health: 70
 category: effect
 itemCapacity: 0
