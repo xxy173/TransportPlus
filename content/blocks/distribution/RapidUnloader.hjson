@@ -5,14 +5,14 @@ itemCapacity: 0
 requirements: [
   titanium/100
   silicon/150
-  "surge alloy"/20
+  surge-alloy/20
 ]
 research: {
   parent: "unloader"
   requirements: [
     titanium/1000
     silicon/1000
-    "surge alloy"/200
+    surge-alloy/200
   ]  
 }
   
