@@ -1,5 +1,5 @@
 type: tether
-name: Carrie
+name: Carrier
 health: 100
 flying: true
 lowAltitude: false
