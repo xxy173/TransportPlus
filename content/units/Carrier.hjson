@@ -1,5 +1,5 @@
 type: tether
-name: carrier
+name: arrier
 health: 100
 flying: true
 lowAltitude: false
