@@ -8,7 +8,7 @@ consumes: {
   liquid: cryofluid/0.1
 },
 buildTime: 100,
-unitType: carrier,
+unitType: Carrier,
 category: distribution,
 research: {
  parent: "mass-driver",
