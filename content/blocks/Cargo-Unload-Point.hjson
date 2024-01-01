@@ -1,0 +1,18 @@
+Type: UnitCargoUnloadPoint,
+name: Cargo Unload Point,
+health: 300,
+size: 2
+itemCapacity: 300,
+category: distribution,
+research: {
+  parent: "mass-driver",
+  requirements: [
+  titanium/1000,
+  silicon/1000,
+]
+}
+requirements: [
+  titanium/100,
+  silicon/100,
+]
+
