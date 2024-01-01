@@ -4,7 +4,7 @@ health: 70
 category: effect
 itemCapacity: 0
 buildTime: 0.01
-speed: 3
+speed: 30
 requirements: [
   titanium/100
   silicon/150
