@@ -1,6 +1,7 @@
 Type: UnitCargoUnloadPoint,
 name: Cargo Unload Point,
 health: 300,
+size: 2
 itemCapacity: 300,
 category: distribution,
 research: {
