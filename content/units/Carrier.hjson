@@ -4,7 +4,7 @@ health: 100
 flying: true
 lowAltitude: false
 accel: 0.1
-drag: 0.01
+drag: 0.05
 speed: 4
 armor: 0
 hitsize: 2
