@@ -1,0 +1,22 @@
+type: Unloader
+name: "Rapi Unloader"
+health: 70
+category: effect
+itemCapacity: 0
+buildTime: 0.01
+speed: 0.5
+requirements: [
+  titanium/100
+  silicon/150
+  surge-alloy/20
+]
+
+research: {
+  parent: "unloader"
+  requirements: [
+    titanium/1000
+    silicon/1000
+    surge-alloy/200
+  ]  
+}
+  
