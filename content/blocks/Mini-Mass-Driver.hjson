@@ -1,7 +1,6 @@
 {
     "type": "massDriver",
     "name": "Mini Mass Driver",
-    "details": "Small mass driver.",
     "category": "distribution",
     "health": 100,
     "size": 1,
