@@ -1,7 +1,7 @@
 name: "TransportPlus"
 displayName: "TransportPlus"
 author: "xxy173"
-description: "Add Distributions"
+description: "Add new way of transport."
 version: "1"
 minGameVersion: "143.1"
 hidden: false
