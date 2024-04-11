@@ -1,6 +1,5 @@
 name: "Phase Conveyor"
 type: Conveyor
-category: distribution
 size: 1
 helth: 50
 speed: 0.01
