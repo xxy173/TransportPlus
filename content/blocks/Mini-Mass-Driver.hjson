@@ -13,11 +13,11 @@
       power: 0.3
     },
     requirements: [
-        { item: titanium/30 },
-        { item: lead/30 },
-        { item: thorium/15 },
-        { item: silicon/40 }
-    ],
+        item: titanium/30
+        item: lead/30
+        item: thorium/15
+        item: silicon/40
+    ]
     research: {
         parent: "mass-driver",
         requirements: [
