@@ -1,5 +1,7 @@
 name: "Phase Conveyor"
 type: Conveyor
+category: distribution
+size: 1
 helth: 50
 speed: 0.01
 displayedSpeed: 15
@@ -8,11 +10,11 @@ research: {
  requirements: [
   copper/1000
   lead/1000
-  Phase-fabric/1000
+  phase-fabric/1000
  ]
 }
 requirement: [
  copper/1
  lead/1
- Phase-fabric/1
+ phase-fabric/1
 ]
