@@ -21,10 +21,10 @@
     research: {
         parent: "mass-driver",
         requirements: [
-            { item: thorium/500 },
-            { item: copper/1500 },
-            { item: titanium/1500 },
-            { item: silicon/500 }
+            item: thorium/500
+            item: copper/1500
+            item: titanium/1500
+            item: silicon/500
         ]
     }
 }
