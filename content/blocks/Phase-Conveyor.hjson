@@ -1,4 +1,4 @@
-name: "Phase Conveyor1",
+name: "Phase Conveyor",
 type: Conveyor,
 size: 1,
 helth: 50,
