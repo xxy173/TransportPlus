@@ -1,7 +1,7 @@
 type: Unloader
 name: "Surge Unloader"
 health: 70
-category: effect
+category: distribution
 itemCapacity: 0
 buildTime: 0.01
 speed: 0.5
