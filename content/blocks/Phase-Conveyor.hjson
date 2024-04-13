@@ -15,5 +15,5 @@ research: {
 requirement: [
  copper/1
  lead/1
- phase-abric/1
+ phase-fabric/1
 ]
