@@ -2,7 +2,7 @@ name: "Phase Conveyor"
 type: Conveyor
 size: 1
 helth: 50
-speed: 0.01
+speed: 0.08
 displayedSpeed: 15
 research: {
  parent: "titanium conveyor"
