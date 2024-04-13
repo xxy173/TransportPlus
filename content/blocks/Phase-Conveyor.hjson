@@ -1,19 +1,19 @@
-name: "Phase Conveyor",
-type: Conveyor,
-size: 1,
-helth: 50,
-speed: 0.01,
-displayedSpeed: 15,
+name: "Phase Conveyor"
+type: Conveyor
+size: 1
+helth: 50
+speed: 0.01
+displayedSpeed: 15
 research: {
- parent: "titanium conveyor",
+ parent: "titanium conveyor"
  requirements: [
-  copper/1000,
-  lead/1000,
-  phase-fabric/1000,
- ],
-},
+  copper/1000
+  lead/1000
+  phase-fabric/1000
+ ]
+}
 requirement: [
- copper/1,
- lead/1,
- phase-fabric/1,
-],
+ copper/1
+ lead/1
+ phase-fabric/1
+]
