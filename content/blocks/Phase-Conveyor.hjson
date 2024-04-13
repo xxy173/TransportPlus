@@ -12,7 +12,7 @@ research: {
   phase-fabric/1000
  ]
 }
-requirement: [
+requirements: [
  copper/1
  lead/1
  phase-fabric/1
