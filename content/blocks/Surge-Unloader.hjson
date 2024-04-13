@@ -1,5 +1,5 @@
 type: Unloader
-name: "Surge Unloaderr"
+name: "Surge Unloader"
 health: 70
 category: distribution
 itemCapacity: 0
