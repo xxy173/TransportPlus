@@ -2,7 +2,6 @@ name: "Phase Conveyor"
 type: conveyor
 size: 1
 health: 50
-buildSpeed: 0.2
 displayedSpeed: 20
 hasPower: true
 research: {
