@@ -1,0 +1,17 @@
+name: "Phase router"
+type: router
+size: 1
+health: 80
+itemCapacity: 3
+hasPower: true
+research: {
+  parent: "router"
+  requirements: [
+    copper/2000
+    phase-fabric/1000
+  ]
+}
+requirements: [
+  copper/2
+  phase-fabric/1
+]
