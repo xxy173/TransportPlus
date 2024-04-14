@@ -4,7 +4,7 @@
     category: distribution,
     health: 100,
     size: 1,
-    speed: 200,
+    speed: 300,
     itemCapacity: 40,
     minDistribute: 15,
     reloadTime: 20,
