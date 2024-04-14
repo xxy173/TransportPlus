@@ -4,7 +4,7 @@
     category: distribution,
     health: 100,
     size: 1,
-    buildTime: 300,
+    buildTime: 500,
     itemCapacity: 40,
     minDistribute: 15,
     reloadTime: 20,
