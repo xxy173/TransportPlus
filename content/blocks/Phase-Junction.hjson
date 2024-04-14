@@ -2,7 +2,7 @@ name: "Phase Junction"
 type: Junction
 size: 1
 health: 80
-itemCapacity: 3
+itemCapacity: 30
 hasPower: true
 research: {
   parent: "Junction"
