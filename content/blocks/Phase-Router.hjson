@@ -1,4 +1,4 @@
-name: "Phase router"
+name: "Phase Router"
 type: router
 size: 1
 health: 80
