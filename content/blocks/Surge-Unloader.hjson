@@ -3,7 +3,6 @@ name: "Surge Unloader"
 health: 70
 category: distribution
 itemCapacity: 0
-buildTime: 0.01
 speed: 0.5
 requirements: [
   titanium/100
