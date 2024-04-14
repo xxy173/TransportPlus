@@ -3,7 +3,7 @@ type: conveyor
 size: 1
 health: 50
 speed: 0.1
-displayedSpeed: 15
+displayedSpeed: 20
 hasPower: true
 research: {
   parent: "titanium-conveyor"
