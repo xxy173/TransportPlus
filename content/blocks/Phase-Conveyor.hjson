@@ -4,6 +4,7 @@ size: 1
 health: 50
 speed: 0.08
 displayedSpeed: 15
+hasPower: true
 research: {
  parent: "titanium conveyor"
  requirements: [
