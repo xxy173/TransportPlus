@@ -1,4 +1,6 @@
 name: "Phase Inverted Sorter"
+type: Sorter
+invert: true
 health: 60
 hasPower: true
 research: {
