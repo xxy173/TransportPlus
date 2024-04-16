@@ -1,0 +1,18 @@
+name: "Phase Sorter"
+type: Sorter
+size: 1
+health: 80
+hasPower: true
+research: {
+  parent: "Sorter"
+  requirements: [
+    copper/2000
+    lead/2000
+    phase-fabric/1000
+  ]
+}
+requirements: [
+  copper/2
+  lead/2
+  phase-fabric/1
+]
