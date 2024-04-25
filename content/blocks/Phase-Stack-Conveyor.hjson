@@ -10,14 +10,14 @@ research: {
   parent: "plastanium-conveyor"
   requirements: [
     graphite/1000
-    sillicon/1000
+    silicon/1000
     plastanium/1000
     phase-fabric/1000
   ]
 }
 requirements: [
   graphite/1
-  sillicon/1
+  silicon/1
   plastanium/1
   phase-fabric/1
 ]
