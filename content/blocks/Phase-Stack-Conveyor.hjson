@@ -9,14 +9,14 @@ hasPower: true
 research: {
   parent: "plastanium-conveyor"
   requirements: [
-    graphaite/1000
+    graphite/1000
     sillicon/1000
     plastanium/1000
     phase-fabric/1000
   ]
 }
 requirements: [
-  graphaite/1
+  graphite/1
   sillicon/1
   plastanium/1
   phase-fabric/1
