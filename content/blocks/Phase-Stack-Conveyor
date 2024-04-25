@@ -1,0 +1,23 @@
+name: "Phase Stack Conveyor"
+type: stackConveyor
+size: 1
+health: 70
+speed: 0.07
+itemCapacity: 20
+displayedSpeed:
+hasPower: true
+research: {
+  parent: "plastanium-conveyor"
+  requirements: [
+    graphaite/1000
+    sillicon/1000
+    plastanium/1000
+    phase-fabric/1000
+  ]
+}
+requirements: [
+  graphaite/1
+  sillicon/1
+  plastanium/1
+  phase-fabric/1
+]
