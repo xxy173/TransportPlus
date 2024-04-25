@@ -3,6 +3,7 @@ type: stackConveyor
 size: 1
 health: 70
 speed: 0.06
+displayedSpeed: 80
 itemCapacity: 20
 displayedSpeed:30
 hasPower: true
