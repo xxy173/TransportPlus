@@ -2,7 +2,7 @@ name: "Phase Stack Conveyor"
 type: stackConveyor
 size: 1
 health: 70
-speed: 4/60
+speed: 0.06
 itemCapacity: 20
 displayedSpeed:30
 hasPower: true
