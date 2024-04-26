@@ -1,0 +1,22 @@
+name: "Phase Armored Conveyor"
+type: armoredConveyor
+size: 1
+health: 50
+speed: 0.18
+displayedSpeed: 23
+hasPower: true
+research: {
+  parent: "armored-conveyor"
+  requirements: [
+    metaglass/1000
+    thorium/1000
+    plastanium/1000
+    phase-fabric/1000
+  ]
+}
+requirements: [
+  metaglass/1
+  thorium/1
+  plastanium/1
+  phase-fabric/1
+]
