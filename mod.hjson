@@ -2,6 +2,6 @@ name: "TransportPlus"
 displayName: "TransportPlus"
 author: "xxy173"
 description: "Add new way of transport."
-version: "0.1"
+version: "1.0"
 minGameVersion: "143.1"
 hidden: false
