@@ -6,6 +6,6 @@ description: "Add the following contents.
 ・Mini masdriver
 ・Cargo loader and cargo unload point that can be used in Serpulo.
 ・Strengthened Unloader."
-version: "2.0"
+version: "1.0"
 minGameVersion: "143.1"
 hidden: false
