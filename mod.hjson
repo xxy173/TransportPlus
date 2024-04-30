@@ -5,7 +5,7 @@ description: "Add the following contents.
 ・Electrified conveyor,junction,router,sorter,and overflow gate.
 ・Mini masdriver
 ・Cargo loader and cargo unload point that can be used in Serpulo.
-・Strengthened Unloader.
+・Strengthened Unloader."
 version: "2.0"
 minGameVersion: "143.1"
 hidden: false
