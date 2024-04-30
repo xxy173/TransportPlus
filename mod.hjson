@@ -1,0 +1,7 @@
+name: "TransportPlus"
+displayName: "TransportPlus"
+author: "xxy173"
+description: "Add the following contents. \n・Electrified conveyor,junction,router,sorter,and overflow gate. \n・Mini masdriver \n・Cargo loader and cargo unload point that can be used in Serpulo. \n・Strengthened Unloader."
+version: "1.0"
+minGameVersion: "143.1"
+hidden: false
