@@ -1,22 +1,24 @@
-name: "Phase Conveyor"
-type: conveyor
-size: 1
-health: 50
-speed: 0.18
-displayedSpeed: 23
-hasPower: true
-research: {
-  parent: "titanium-conveyor"
-  requirements: [
-    copper/1000
-    lead/1000
-    titanium/1000
-    phase-fabric/1000
+{
+  "name": "Phase Conveyor",
+  "type": "conveyor",
+  "size": 1,
+  "health": 50,
+  "speed": 0.18,
+  "displayedSpeed": 23,
+  "hasPower": true,
+  "research": {
+    "parent": "titanium-conveyor",
+    "requirements": [
+      "copper/1000",
+      "lead/1000",
+      "titanium/1000",
+      "phase-fabric/1000"
+    ]
+  },
+  "requirements": [
+    "copper/1",
+    "lead/1",
+    "titanium/1",
+    "phase-fabric/1"
   ]
 }
-requirements: [
-  copper/1
-  lead/1
-  titanium/1
-  phase-fabric/1
-]

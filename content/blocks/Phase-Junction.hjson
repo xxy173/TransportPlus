@@ -1,17 +1,19 @@
-name: "Phase Junction"
-type: Junction
-size: 1
-health: 80
-speed: 0.2
-hasPower: true
-research: {
-  parent: "Junction"
-  requirements: [
-    copper/2000
-    phase-fabric/1000
+{
+  "name": "Phase Junction",
+  "type": "Junction",
+  "size": 1,
+  "health": 80,
+  "speed": 0.2,
+  "hasPower": true,
+  "research": {
+    "parent": "Junction",
+    "requirements": [
+      "copper/2000",
+      "phase-fabric/1000"
+    ]
+  },
+  "requirements": [
+    "copper/2",
+    "phase-fabric/1"
   ]
 }
-requirements: [
-  copper/2
-  phase-fabric/1
-]

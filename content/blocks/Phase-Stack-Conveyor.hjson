@@ -1,23 +1,25 @@
-name: "Phase Stack Conveyor"
-type: stackConveyor
-size: 1
-health: 70
-speed: 0.06
-itemCapacity: 20
-displayedSpeed:30
-hasPower: true
-research: {
-  parent: "plastanium-conveyor"
-  requirements: [
-    graphite/1000
-    silicon/1000
-    plastanium/1000
-    phase-fabric/1000
+{
+  "name": "Phase Stack Conveyor",
+  "type": "stackConveyor",
+  "size": 1,
+  "health": 70,
+  "speed": 0.06,
+  "itemCapacity": 20,
+  "displayedSpeed": 30,
+  "hasPower": true,
+  "research": {
+    "parent": "plastanium-conveyor",
+    "requirements": [
+      "graphite/1000",
+      "silicon/1000",
+      "plastanium/1000",
+      "phase-fabric/1000"
+    ]
+  },
+  "requirements": [
+    "graphite/1",
+    "silicon/1",
+    "plastanium/1",
+    "phase-fabric/1"
   ]
 }
-requirements: [
-  graphite/1
-  silicon/1
-  plastanium/1
-  phase-fabric/1
-]
